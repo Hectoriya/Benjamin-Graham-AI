@@ -8,9 +8,13 @@ Escolhi o tema relacionado a Benjamin Graham pois julguei ser o melhor assunto f
 FONTES:
 
 https://www.suno.com.br/tudo-sobre/benjamin-graham/
+
 https://pt.wikipedia.org/wiki/Benjamin_Graham
+
 https://www.investopedia.com/terms/b/bengraham.asp
+
 https://fundamentalfinanceplaybook.com/histories/what-is-value-investing/
+
 https://beyondbengraham.com/benjamin-graham-lost-a-bundle-found-margin-of-safety-23/
 
 Análise:
