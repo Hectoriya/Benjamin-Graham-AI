@@ -2,9 +2,11 @@
 An AI on the life and methodology of the economist Benjamin Graham.
 
 Assunto e Objetivo.
+
 Escolhi o tema relacionado a Benjamin Graham pois julguei ser o melhor assunto financeiro introdutório. Meu foco é entender a análise feita pela Learning Machine sobre o economista inglês.
 
 FONTES:
+
 https://www.suno.com.br/tudo-sobre/benjamin-graham/
 https://pt.wikipedia.org/wiki/Benjamin_Graham
 https://www.investopedia.com/terms/b/bengraham.asp
@@ -12,6 +14,7 @@ https://fundamentalfinanceplaybook.com/histories/what-is-value-investing/
 https://beyondbengraham.com/benjamin-graham-lost-a-bundle-found-margin-of-safety-23/
 
 Análise:
+
 Pergunta: ''Me explique quem foi Benjamin Graham.''
 Resposta: ''Benjamin Graham (1894–1976) é amplamente reconhecido como o 'Pai do Investimento em Valor' (Value Investing) e o 'Reitor de Wall Street'.'' [Fonte vinda de ''A Brief History of Value Investing''].
 ''Ele foi um influente economista, professor e gestor de investimentos que transformou o mercado de capitais de uma arena dominada por especuladores em uma disciplina acadêmica e profissional rigorosa.'' [Fonte vinda de ''A Metodologia de Benjamin Graham: Uma Análise Exaustiva da Filosofia do Investimento em Valor e sua Aplicabilidade Contemporânea'']
@@ -24,6 +27,7 @@ Resposta: ''Benjamin Graham (1894–1976) é amplamente reconhecido como o 'Pai 
 ''Como ele era descrito fora de sua vida acadêmica?''
 
 Principais Pilares:
+
 Valor Intrínseco
 Margem de Segurança
 O Sr. Mercado
@@ -78,4 +82,5 @@ Desafio Moderno: Críticos apontam que as métricas físicas de Graham (como o v
 
 
 Conclusão:
+
 Esta IA foi educada com 16 fontes diferentes, sejam vídeos ou sites. Com isso ele tem uma base decente para resolver as perguntas mais requisitadas e até algumas mais específicas como: ''Qual era a relação dele com a família e amigos?''. Se tornando uma IA muito boa com o assunto em questão.
